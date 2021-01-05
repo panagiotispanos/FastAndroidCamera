@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B544C08C-7F75-4B68-91F5-3B0AFE17937B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FastAndroidCamera PreferredExecutionTarget="Android.Nexus_6P_API_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastJavaByteArrayEnumerator.cs">
+    <Files>
+      <File FileName="CameraExtensions.cs" Line="1" Column="1" />
+      <File FileName="FastJavaByteArray.cs" Line="1" Column="1" />
+      <File FileName="FastJavaByteArrayEnumerator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FastAndroidCamera" expanded="True" selected="True">
+            <Node name="FastAndroidCamera" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
